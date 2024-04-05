@@ -1,0 +1,8 @@
+1. Some similar concepts between Yelp and Microsoft Visual Studio are that they both believe smaller is better and that you should reveiw your own code before pushing it for others to review. The differences between the guidelines of these two companies are that Yelp believes in a more strict/harsh code review whereas Microsoft values being sensitive and respectful while reviewing code. Overall, teams conducting code reviews should be respectful but constructive, happen after every pull request, have multiple reviewers, and happen in a fast paced manner.
+
+2.  https://codereview.stackexchange.com/questions/216290/parking-lot-oo-design-python
+The above code review is "good" because the reviewer maintained respect in their feedback, but also provided a lot of helpful explanations and examples!!
+
+3. https://codereview.stackexchange.com/questions/291409/alternative-control-flows-to-highlight-happy-path
+The above code is a "bad" example of code review because the reviewer just told them what to change with little explanation.
+It would be much more helpful to the developer to learn what mistakes they made in a better explanation and figure some things out for themselves.
