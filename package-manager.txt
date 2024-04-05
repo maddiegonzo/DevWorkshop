@@ -1,0 +1,32 @@
+I tried everything for this part but things were not wroking out. First I tried all of this:
+
+[root@docable /] #  npm install curl
+bash: npm: command not found
+[root@docable /] #  pip install curl
+bash: pip: command not found
+[root@docable /] #  apt-get install <curl>   
+bash: syntax error near unexpected token `newline'
+[root@docable /] #  apt-get install curl 
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+E: Unable to locate package curl
+[root@docable /] #  apt-get install wget
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+E: Unable to locate package wget
+[root@docable /] #  apt-get install nodejs
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+E: Unable to locate package nodejs
+[root@docable /] #  apt-get install npm forever
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+E: Unable to locate package npm
+E: Unable to locate package forever
+
+Then I tried to install chocoloatey, but the link doesnt work and the info I found online was not working either.
+I've used package managers before but I'm not sure why they are not working in this environment
